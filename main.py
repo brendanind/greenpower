@@ -1,4 +1,3 @@
-print("Hello, this is Brendan's greenpower code!")
+## Brendan's Greenpower code for the raspberry pi.
 
-
-print("Hellow!!!!!!!!!")
+print("Hello world!")
