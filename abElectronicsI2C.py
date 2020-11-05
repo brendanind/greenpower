@@ -7,10 +7,12 @@ ABElectronics ADC Pi 8-Channel ADC
 Requires smbus2 or python smbus to be installed
 ================================================
 """
-print("hello world")
 
 from __future__ import absolute_import, division, print_function, \
                                                     unicode_literals
+
+print("hello world")
+
 try:
     from smbus2 import SMBus
 except ImportError:
