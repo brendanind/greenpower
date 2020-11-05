@@ -400,3 +400,7 @@ class ADCPi(object):
             raise ValueError('set_conversion_mode: mode out of range')
 
         return
+
+
+
+while True:
